@@ -38,7 +38,11 @@ Author: Ryxelaris OS – independent project
 Once you have downloaded the ISO file, you can check its integrity using a SHA256 checksum.
 
 File with checksums:
-- `SHA256SUMS.txt` - 
+- `SHA256SUMS.txt` -
+
+  Screenshots
+![Desktop](Screenshots/Desktop.png)
+![Installer](Screenshots/installer.png)
 
 Screenshots
 ![Desktop](Screenshots/desktop.png)
