@@ -32,3 +32,11 @@ Project Released under an open source license of your choice.
 Details can be found in the LICENSE file.
 
 Author: Ryxelaris OS – independent project
+
+## Integrity Check (SHA256)
+
+Once you have downloaded the ISO file, you can check its integrity using a SHA256 checksum.
+
+File with checksums:
+- `SHA256SUMS.txt`
+
