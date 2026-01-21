@@ -47,3 +47,6 @@ File with checksums:
 Screenshots
 ![Desktop](Screenshots/desktop.png)
 ![Installer](Screenshots/installer.png)
+
+Screenshots
+![Desktop](Screenshots/desktop.png)
